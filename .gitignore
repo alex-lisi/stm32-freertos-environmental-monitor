@@ -1,0 +1,26 @@
+# STM32CubeIDE files
+.settings/
+Debug/
+Release/
+*.launch
+.cproject
+.project
+
+# Build outputs
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE specific
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# OS specific
+.DS_Store
+Thumbs.db
